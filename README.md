@@ -11,4 +11,3 @@ Me chamo Julia
 
 @julia19
 
-![descrição do GIF](blob:https://tenor.com/71bc5423-97fe-461a-985a-cca690c33949)
