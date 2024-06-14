@@ -10,3 +10,5 @@ Me chamo Julia
 00001092915848sp@al.educacao.sp.gov.br
 
 @julia19
+
+![descrição do GIF](blob:https://tenor.com/71bc5423-97fe-461a-985a-cca690c33949)
